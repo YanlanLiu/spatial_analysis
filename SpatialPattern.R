@@ -1,7 +1,7 @@
 # The script does the following:
-# (1) Estimate spatial pattern of mortality intensity using EWS characteristics detected with zero lead time;
-# (2) Predict the spatial pattern of mortality intensity using EWS characteristics detected 6 months ahead.
-# (3) Generate sub-figures of Fig. 6d, 6e and 6f.
+# (1) Estimate spatial pattern of mortality intensity using EWS characteristics detected with a zero lead time;
+# (2) Predict the spatial pattern of mortality intensity using EWS characteristics detected 6 months ahead;
+# (3) Generate sub-figures of Fig. 6d, 6e and 6f in Liu et al., Nature Climate Change, 2019.
 
 
 # ------------- set up ------------------
